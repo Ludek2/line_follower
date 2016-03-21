@@ -3,6 +3,10 @@
  *  City University Robotics Society 2016
  *  author: Ludek Navratil
  *  
+ *  improvements to be done:
+ *    - reverse spinning 
+ *    - turning at one point (both motors spinning in oposite direction with the same speed)
+ *    - integrate encoder to get feedback about the real spinning 
 */
 
 //PWM pins where DC motors are connected
